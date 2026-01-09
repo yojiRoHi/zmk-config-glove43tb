@@ -112,7 +112,7 @@ layers:
   - $
   - '%'
   - {t: KP 0, h: LEFT SHIFT}
-  - KP 1
+  - '1'
   - KP 2
   - KP 3
   - .
