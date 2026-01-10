@@ -46,20 +46,20 @@ layers:
   - DEL
   FUNCTION:
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F13
+  - F14
+  - F15
+  - F16
   - F1
   - F2
   - F3
   - F4
   - F5
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F17
+  - F18
+  - F19
+  - F20
   - {t: ▽, type: trans}
   - F13
   - F6
@@ -68,10 +68,10 @@ layers:
   - F9
   - F10
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F21
+  - F22
+  - F23
+  - F24
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
