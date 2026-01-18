@@ -39,10 +39,10 @@ layers:
   - LEFT WIN
   - LEFT ALT
   - {t: '&to_layer_0 INT_HENKAN', h: '6'}
-  - {t: SPACE, h: NUM}
+  - {t: SPACE, h: LCTRL}
   - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
   - {t: '&to_layer_0 BACKSPACE', h: NUM}
-  - {t: ENTER, h: FUNCTION}
+  - {t: ENTER, h: NUM}
   - DEL
   FUNCTION:
   - {t: ▽, type: trans}
@@ -86,7 +86,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   NUM:
   - '-'
@@ -127,9 +127,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '|'
   ARROW:
