@@ -51,7 +51,7 @@
 
         esc {
             bindings = <&kp LS(ESCAPE)>;
-            key-positions = <11>;
+            key-positions = <11 12>;
         };
 
         atab {
