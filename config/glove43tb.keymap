@@ -46,27 +46,37 @@
 
         tab {
             bindings = <&kp TAB>;
-            key-positions = <11 12>;
+            key-positions = <1 2>;
         };
 
-        shift_tab {
-            bindings = <&kp LS(TAB)>;
-            key-positions = <12 13>;
+        esc {
+            bindings = <&kp LS(ESCAPE)>;
+            key-positions = <11>;
         };
 
-        muhennkann {
-            bindings = <&to_layer_0 INT_MUHENKAN>;
-            key-positions = <11 10>;
+        atab {
+            bindings = <&kp LA(TAB)>;
+            key-positions = <23 24>;
         };
 
-        double_quotation {
-            bindings = <&kp DOUBLE_QUOTES>;
-            key-positions = <20 21>;
+        osl1 {
+            bindings = <&mo 1>;
+            key-positions = <11 12 13>;
         };
 
-        eq {
-            bindings = <&kp EQUAL>;
-            key-positions = <24 25>;
+        bs {
+            bindings = <&kp BACKSPACE>;
+            key-positions = <7 8>;
+        };
+
+        ret {
+            bindings = <&kp RET>;
+            key-positions = <19 20>;
+        };
+
+        osl1dup {
+            bindings = <&mo 1>;
+            key-positions = <18 19 20>;
         };
     };
 
