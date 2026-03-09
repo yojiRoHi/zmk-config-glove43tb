@@ -56,9 +56,9 @@ layers:
   - F4
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - F17
-  - F18
-  - F19
+  - {t: F17, type: held}
+  - {t: F18, type: held}
+  - {t: F19, type: held}
   - F20
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -309,13 +309,17 @@ layers:
   - {t: ▽, type: trans}
   - BT CLR ALL
 combos:
-- p: [11, 12]
+- p: [1, 2]
   k: TAB
-- p: [12, 13]
-  k: Sft+TAB
-- p: [11, 10]
-  k: '&to_layer_0 INT_MUHENKAN'
-- p: [20, 21]
-  k: '"'
-- p: [24, 25]
-  k: '='
+- p: [11, 12]
+  k: Sft+ESCAPE
+- p: [23, 24]
+  k: Alt+TAB
+- p: [11, 12, 13]
+  k: FUNCTION
+- p: [7, 8]
+  k: BACKSPACE
+- p: [19, 20]
+  k: RET
+- p: [18, 19, 20]
+  k: FUNCTION
