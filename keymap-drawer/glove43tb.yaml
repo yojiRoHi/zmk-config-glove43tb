@@ -38,7 +38,7 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: '&to_layer_0 INT_HENKAN', h: '6'}
+  - LCTRL
   - {t: SPACE, h: LCTRL}
   - {t: '&to_layer_0 INT_MUHENKAN', h: ARROW}
   - {t: '&to_layer_0 BACKSPACE', h: NUM}
@@ -302,7 +302,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
